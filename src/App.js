@@ -1,5 +1,5 @@
 //Components
-import Character from "./components/Character";
+import CodingGuy from "./components/CodingGuy";
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
 
     <div className="App">
 
-      <Character />
+      <CodingGuy />
 
     </div>
 
